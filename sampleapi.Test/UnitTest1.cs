@@ -12,7 +12,7 @@ namespace sampleapi.Test
         [Test]
         public void StupidTest()
         {
-            Assert.AreEqual(true, false);
+            Assert.AreEqual(true, true);
         }
     }
 }

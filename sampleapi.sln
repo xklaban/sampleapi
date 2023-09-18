@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sampleapi", "sampleapi\sampleapi.csproj", "{8139CC6D-DFD7-4198-B046-74EDF812686F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleapi.Test", "sampleapi.Test\sampleapi.Test.csproj", "{8D7A8D75-1E65-4EDD-85B5-3234C817A104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sampleapi.Test", "sampleapi.Test\sampleapi.Test.csproj", "{8D7A8D75-1E65-4EDD-85B5-3234C817A104}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
